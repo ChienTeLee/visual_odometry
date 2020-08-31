@@ -41,7 +41,7 @@ The red path is the visual odometry using self implemented methods. The blue pat
 </p>
 
 ## Slides
-[Slides](https://drive.google.com/file/d/1ppzgXlXXvlCBnEZOhR_cK2v2YY1CGe7P/view?usp=sharing)
+[Slides](https://drive.google.com/file/d/1Sjtl6Z9NUT2NMls9OLZu_9G4tVZOAccG/view?usp=sharing)
 
 ## Reference
 1. [Visual odometry (wikipeida)](https://en.wikipedia.org/wiki/Visual_odometry)
