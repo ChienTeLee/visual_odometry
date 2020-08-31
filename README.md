@@ -40,6 +40,9 @@ The red path is the visual odometry using self implemented methods. The blue pat
   <img src="https://github.com/ChienTeLee/visual_odometry/blob/master/output/output.jpg" width="50%" height="50%"> 
 </p>
 
+##
+[Slides](https://drive.google.com/file/d/1ppzgXlXXvlCBnEZOhR_cK2v2YY1CGe7P/view?usp=sharing)
+
 ## Reference
 1. [Visual odometry (wikipeida)](https://en.wikipedia.org/wiki/Visual_odometry)
 
